@@ -20,7 +20,7 @@
   </include>
 
   <!-- Move base -->
-  <include file="$(find autlab4)/launch/amcl_turtlebot3/turtlebot3_move_base.launch">
+  <include file="$(find autlab6)/launch/amcl_turtlebot3/turtlebot3_move_base.launch">
   </include>
 
   <!-- Static Transformations -->
