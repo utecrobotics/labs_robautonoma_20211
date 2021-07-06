@@ -3,5 +3,5 @@
 <!-- Visualize the robot while building a map or navigating with the ros navistack. -->
 
 <launch>
-  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find autlab4)/config/navigation.rviz"/>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find autlab6)/config/navigation.rviz"/>
 </launch>
