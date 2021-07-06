@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(autlab4)
+project(autlab6)
 
 find_package(catkin REQUIRED COMPONENTS
   rospy
