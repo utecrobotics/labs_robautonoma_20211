@@ -9,7 +9,7 @@
         args="$(arg map_file)" />
 
   <!-- AMCL -->
-  <arg name="custom_amcl_launch_file" default="$(find autlab4)/launch/amcl_turtlebot3/turtlebot3_amcl_helper.launch"/>
+  <arg name="custom_amcl_launch_file" default="$(find autlab6)/launch/amcl_turtlebot3/turtlebot3_amcl_helper.launch"/>
   <arg name="initial_pose_x" default="0.0"/>
   <arg name="initial_pose_y" default="0.0"/>
   <arg name="initial_pose_a" default="0.0"/>
